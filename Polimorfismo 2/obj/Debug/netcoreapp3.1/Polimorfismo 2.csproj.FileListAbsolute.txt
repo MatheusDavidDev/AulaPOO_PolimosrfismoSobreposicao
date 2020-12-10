@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Polimorfismo 2\bin\Debug\netcoreapp3.1\Polimorfismo 2.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Polimorfismo 2\bin\Debug\netcoreapp3.1\Polimorfismo 2.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Polimorfismo 2\bin\Debug\netcoreapp3.1\Polimorfismo 2.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Polimorfismo 2\bin\Debug\netcoreapp3.1\Polimorfismo 2.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Polimorfismo 2\bin\Debug\netcoreapp3.1\Polimorfismo 2.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Polimorfismo 2\bin\Debug\netcoreapp3.1\Polimorfismo 2.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Polimorfismo 2\obj\Debug\netcoreapp3.1\Polimorfismo 2.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Polimorfismo 2\obj\Debug\netcoreapp3.1\Polimorfismo 2.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Polimorfismo 2\obj\Debug\netcoreapp3.1\Polimorfismo 2.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Polimorfismo 2\obj\Debug\netcoreapp3.1\Polimorfismo 2.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Polimorfismo 2\obj\Debug\netcoreapp3.1\Polimorfismo 2.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Polimorfismo 2\obj\Debug\netcoreapp3.1\Polimorfismo 2.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Polimorfismo 2\obj\Debug\netcoreapp3.1\Polimorfismo 2.genruntimeconfig.cache
